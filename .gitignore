@@ -103,3 +103,4 @@ InitTestScene*.unity*
 Server/node_modules/
 Server/.env/
 
+*.env
